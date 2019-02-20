@@ -10,6 +10,7 @@
 /* navbar */
 .navbar{
   background-color: #00214f;
+  padding-bottom: 1rem;
 
 }
 
@@ -650,6 +651,21 @@
   }
 
 }
+
+/* Q&A */
+#head-q{
+    text-align: center;
+}
+#answer{
+    text-align: center;
+}
+#q&a{
+    text-align: center;
+}
+.sub{
+    text-align: center;
+}
+
 
 
 /* footer */
