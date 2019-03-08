@@ -714,3 +714,18 @@ background: #008acc;
 .footimg{
 width: 5rem;
 }
+
+/* FAQ */
+.faq{
+background-color: #eeeeee;
+}
+
+.question{
+  font-size: large;
+  font-weight: bold;
+}
+
+/* Terms & Conditions */
+.Terms{
+  background-color: #eeeeee;
+}
